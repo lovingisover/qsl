@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|D:\比特.code\写一个函数返回输入数字二进制中得一的个数\|
