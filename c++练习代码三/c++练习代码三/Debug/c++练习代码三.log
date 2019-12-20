@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/12/20 22:25:38。
+     1>项目“D:\比特.code\c++练习代码三\c++练习代码三\c++练习代码三.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test_12_20.cpp
+         test_12_20.cpp
+     1>d:\比特.code\c++练习代码三\c++练习代码三\test_12_20.cpp(70): error C2065: “Data”: 未声明的标识符
+     1>d:\比特.code\c++练习代码三\c++练习代码三\test_12_20.cpp(70): error C2065: “p”: 未声明的标识符
+     1>d:\比特.code\c++练习代码三\c++练习代码三\test_12_20.cpp(71): error C2065: “p”: 未声明的标识符
+     1>d:\比特.code\c++练习代码三\c++练习代码三\test_12_20.cpp(71): error C2227: “->PrintA”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>d:\比特.code\c++练习代码三\c++练习代码三\test_12_20.cpp(72): error C2065: “p”: 未声明的标识符
+     1>d:\比特.code\c++练习代码三\c++练习代码三\test_12_20.cpp(72): error C2227: “->Show”的左边必须指向类/结构/联合/泛型类型
+                 类型是“unknown-type”
+     1>已完成生成项目“D:\比特.code\c++练习代码三\c++练习代码三\c++练习代码三.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.80
