@@ -21,6 +21,7 @@ void DisplayBoard(char board[ROWS][COLS], int row, int col)//Ö»ÐèÒª´òÓ¡¾Å³Ë¾ÅµÄÆ
 	for (i = 1; i <= row; i++)//´òÓ¡¾Å³Ë¾ÅµÄÆåÅÌ
 	{
 		printf("%d ", i);
+	
 		for (j = 1; j <= col; j++)
 		{
 			printf("%c ", board[i][j]);
